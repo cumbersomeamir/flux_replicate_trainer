@@ -63,7 +63,5 @@ def make_inference(model_owner, model_name, version_id, prompt):
     return output_url
 
 
-
-
 #update the path for zip file
 #Get the images on client, zip on client or server, save on aws and send url
